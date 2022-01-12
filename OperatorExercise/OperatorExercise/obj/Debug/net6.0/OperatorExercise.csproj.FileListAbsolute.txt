@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\ref\OperatorExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\OperatorExcercise\OperatorExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
