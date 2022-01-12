@@ -25,15 +25,18 @@ namespace OperatorExercise
             double radius;
             Console.WriteLine("What is the radius of your circle?");
             radius = double.Parse(Console.ReadLine());
-            double area = Math.PI * (Math.Pow(radius, 2));
-            Console.WriteLine($"The area of your circle with 20 as radius is {area}", area);
+            //double area = Math.PI * (Math.Pow(radius, 2));
+            double area = AreaOfCircle(radius);
+            Console.WriteLine($"The area of your circle with {radius} as radius is {area}");
 
             Console.WriteLine($"The answer to K from bonus is 16"); // Answer to the bonus exercise
         }
 
-        //public static double AreaOfCircle (double radius)
-        //{
+        public static double AreaOfCircle(double radius)
+        {
+            double area = Math.PI * (Math.Pow(radius, 2));
+            return area;
            
-        //}
+        }
     }
 }
